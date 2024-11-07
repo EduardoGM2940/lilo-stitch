@@ -55,10 +55,10 @@ function calcularResultado() {
     };
 
     const gifs = {
-        "lilo-nani": "https://tenor.com/bOXbWZOdP2J.gif",
-        "lilo-jumba": "https://tenor.com/bF6Z4https://tenor.com/FxD7.gif.gif",
-        "stitch-nani": "https://tenor.com/FxD7.gif",
-        "stitch-jumba": "https://tenor.com/c6LSqzx9B4i.gif"
+        "lilo-nani": "lilo-nani.gif",
+        "lilo-jumba": "lilo-jumba.gif",
+        "stitch-nani": "stitch-nani.gif",
+        "stitch-jumba": "stitch-jumba.gif"
     };
 
     const key = `${player}-${computer}`;
